@@ -1,0 +1,6 @@
+{
+    "name": "UtilityFramework.Runtime",
+    "overrideReferences": true,
+    "precompiledReferences": ["UtilityFramework.dll"],
+    "autoReferenced": true
+}

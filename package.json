@@ -1,0 +1,7 @@
+{
+  "name": "com.yourcompany.utility-framework",
+  "displayName": "Utility Framework",
+  "version": "1.0.0",
+  "description": "Unity utility framework with DLL",
+  "unity": "2021.3"
+}
