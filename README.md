@@ -10,3 +10,10 @@ Add to Package Manager: Your Git Repository URL
 using UtilityFramework;
 Debug.Log("Hello".ToColor("green"));
 ```
+
+## Features
+- Object Pooling
+- Dependency Injection  
+- Event System
+- String Utilities
+- Singleton Pattern
